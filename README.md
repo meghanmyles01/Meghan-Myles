@@ -13,7 +13,7 @@
 ## Tech stack
 <img src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000"> <img src="https://img.icons8.com/?size=100&id=CLvQeiwFpit4&format=png&color=000000"> <img src ="https://img.icons8.com/?size=100&id=44486&format=png&color=000000"> <img src="https://img.icons8.com/?size=100&id=EUf0NYxeevm8&format=png&color=000000"> <img src="https://img.icons8.com/?size=100&id=21831&format=png&color=000000"> <img src="https://img.icons8.com/?size=100&id=piVHs2bMOs6P&format=png&color=000000">
 
-
+<br>
 
 ## Connect with me
 <a href="https://www.linkedin.com/in/meghan-myles-28b15bb8">
