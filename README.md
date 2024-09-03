@@ -8,7 +8,7 @@
 - I like to apply mathematics, statistics, and code to study biological problems
 - I am a biocurator for the <a href="[URL](https://treegenesdb.org/)">TreeGenes Database</a>, which stores genetic, phenotypic, and environmental data for georeferenced plant populations
 - I am helping to study putative tolerance within Eastern Hemlocks to the Hemlock Wooly Adelgid, an invasive insect pest from Asia
-- 
+- <a href="Meghan_Myles_Resume.docx">Link to download my CV</a>
   
 <br>
 
