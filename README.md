@@ -10,6 +10,12 @@
 ## Connect with me
 <br>
 
-[![@Meghan-Myles](https://img.icons8.com/fluency/48/000000/linkedin.png "@Meghan-Myles")](www.linkedin.com/in/meghan-myles-28b15bb8) [![@meghan.myles@uconn.edu](https://img.icons8.com/fluency/48/000000/apple-mail.png "@meghan.myles@uconn.edu")](meghan.myles@uconn.edu)
+<a href="mailto:meghan.myles@uconn.edu">
+  <img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="Email" width="48" height="48">
+</a>
+
+<a href="mailto:meghan.myles@uconn.edu">
+  <img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="Email" width="48" height="48">
+</a>
 
 <br>
