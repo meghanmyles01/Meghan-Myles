@@ -10,8 +10,8 @@
 ## Connect with me
 <br>
 
-<a href="mailto:meghan.myles@uconn.edu">
-  <img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="Email" width="48" height="48">
+<a href="https://www.linkedin.com/in/meghan-myles-28b15bb8">
+  <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" width="48" height="48">
 </a>
 
 <a href="mailto:meghan.myles@uconn.edu">
